@@ -1,0 +1,34 @@
+
+
+College Name:
+Sri Venkateshwara College of Engineering
+
+
+Name:
+Dhanushkodi Raj
+
+
+Companies worked at:
+Infosys Limited
+Oracle
+
+
+Skills:
+TESTING (9 years), JAVA (3 years), JUNIT (2 years), ORACLE (2 years), API (1 year)LINKShttps://www.linkedin.com/in/dhanushkodi-raj-a190a0155ADDITIONAL INFORMATIONTECHNICAL SKILLSAutomation Testing Tools: Selenium WebDriver, Cucumber, Maven, Jenkins, CyaraLanguages/Frameworks: JAVA, Data Driven, Hybrid, Page Object model, SOAP UI, JUnit, TestNG(TDD), Gherkin language (BDD), Cucumber, Log 4jDefect Tracking Tools: JIRA, HP ALMAPI Webservices Automation Skills: SOAP, REST, HttpClient, SOAP UI, XML, Jmeter, PostmanTest Management Tools: HP ALM, Confluence pageRDBMS: MySQL, Oracle, Mongo DBSource Control Management: SVN, GITOperating Systems: WindowsDomain Knowledge: E-commerce, Financial, Banking, Telecom, Billinghttps://www.linkedin.com/in/dhanushkodi-raj-a190a0155
+
+
+Location:
+Chennai
+
+
+Email Address:
+indeed.com/r/Dhanushkodi-Raj/cf31bbac6c5a5d29
+
+
+Degree:
+Bachelor's in Computer Science
+
+
+Designation:
+Technology Analyst
+Software Test Analyst

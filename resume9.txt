@@ -1,0 +1,35 @@
+
+
+College Name:
+Jawaharlal Nehru Technology University
+
+
+Name:
+Ashok Kunam
+
+
+Companies worked at:
+Microsoft
+Cisco
+Oracle
+
+
+Skills:
+PHP
+database (Less than 1 year), Git (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1year), life cycle (Less than 1 year)
+
+
+Graduation Year:
+2014
+
+
+Degree:
+Bachelor of Technology in ECE
+
+
+Designation:
+Team Lead
+
+
+Years of Experience:
+2.5 years
