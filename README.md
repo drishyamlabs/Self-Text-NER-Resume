@@ -1,5 +1,8 @@
 # Automatic Summarization of Resumes with NER
 
+Developing on top of this wonderful repo https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
+(currently not working on spacy 2.1.3)
+
 Evaluate resumes at a glance through Named Entity Recognition
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-FxcRx8fSgtr6fhMQ_pUdw.png)
